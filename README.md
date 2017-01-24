@@ -1,4 +1,4 @@
-# react-native-chat-socket
+# react-native-chat-socket demo change color background
 react native support chat using socket
 
 * Folder Server:
